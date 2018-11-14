@@ -1,0 +1,43 @@
+table {
+    background-color: darkseagreen;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+#dataForm {
+    padding: 15px;
+    overflow: hidden;
+    background-color: darkseagreen;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+#deleteForm {
+    display: inline-block;
+    
+}
+
+.alert-custom {
+    float: right;
+    border: 1px solid green;
+    border-radius: 4px;
+    background-color: #dff0d8;
+    color: #3c763d;
+    padding: 6px 10px;
+}
+
+.alert-custom p {
+    margin: 0;
+}
+
+.alert-custom p span {
+    font-weight: bold;
+}
+
+hr {
+    border-top: 1px solid #dddddd;
+}
+.form-control {
+    background-color: rgba(136, 212, 196, 0.794);
+}
+body {
+    background-color: rgba(136, 212, 196, 0.794);
+}
